@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This repository is a collection of different python scripts for MAXON's [CINEMA 4D](https://www.maxon.net/en/cinema-4d).
+This repository is a collection of different python scripts for Maxons's [Cinema 4D](https://www.maxon.net/en/cinema-4d).
 
 
 
