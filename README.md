@@ -1,19 +1,16 @@
-Introduction
-============
+# Introduction
 
 This repository is a collection of different python scripts for Maxons's [Cinema 4D](https://www.maxon.net/en/cinema-4d).
 
 
 
 
-Overview
-========
+# Overview
 
 
 
 
-License
-=======
+# License
 
     MIT License
 
