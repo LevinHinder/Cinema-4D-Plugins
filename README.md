@@ -7,7 +7,7 @@ This repository is a collection of different python scripts for Maxons's [Cinema
 
 # Overview
 Here you'll find a short description for every script in this repository. For more information read the README.md in the respective folder.
- - [close_all_open_projects.py](https://github.com/LevinHinder/Cinema-4D-Plugins/blob/main/close_all_open_projects.py) - This simple scipt saves all currently open projects by overwriting the original file. Afterwards all files are getting closed.
+ - [close all open projects](https://github.com/LevinHinder/Cinema-4D-Scripts/blob/main/close%20all%20open%20projects/README.md) - This simple scipt saves all currently open projects by overwriting the original file. Afterwards all files are getting closed.
 
 
 
